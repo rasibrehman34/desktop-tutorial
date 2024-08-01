@@ -1,4 +1,4 @@
-# Myself Eassy!
+# Myself Eassy  :
 
 
 Hi, I’m Rasib Rehman, a 19-year-old pursuing a Bachelor of Science in Computer Science (BSCS). My fascination with technology led me to focus on Artificial Intelligence (AI), a field I find both thrilling and transformative. The idea of machines that can learn and adapt is incredibly inspiring to me.
