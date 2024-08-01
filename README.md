@@ -10,3 +10,4 @@ My goal is to specialize in AI, with a particular interest in how to bulid chatb
 In summary, my academic journey in computer science and my passion for AI drive me to continually learn and explore. I’m excited about the future and eager to contribute to advancements in this dynamic field. Thank you for taking the time to learn more about me!
 
 
+    
